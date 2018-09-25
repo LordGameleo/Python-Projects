@@ -3,17 +3,17 @@ This repository contains my python projects which I am using as stepping stones 
 
 Projects: 
 
-**Youtube.py**:
+**Youtube.py**: Can be used to play the first song using a search query you enter.
   - In this project I used:
-    >Requests
-    >BeautifulSoup
-    >Google API - Youtube Data
+    - Requests
+    - BeautifulSoup
+    - Google API - Youtube Data
     
   - To set this script on your own system you have to create API credentials from Google Developers API Console. Replace the Key at {YOUR_YOUTUBE_DATA_API_KEY}
   
-**Cricket.py**:
+**Cricket.py**: Can be used to get notifications of cricket live matches.
   - In this project I used:
-    >Requests
-    >BeautifulSoup
-    >Notify2
-    >Win10toast
+    - Requests
+    - BeautifulSoup
+    - Notify2
+    - Win10toast
