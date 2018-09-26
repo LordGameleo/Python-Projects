@@ -11,7 +11,7 @@ Projects:
     
   - To set this script on your own system you have to create API credentials from Google Developers API Console. Replace the Key at {YOUR_YOUTUBE_DATA_API_KEY}
   
-**Cricket.py**: Can be used to get notifications of cricket live matches.
+**Cricket.py**: Can be used to get notifications of cricket live matches ESPN cricket.
   - In this project I used:(Requirement)
     - Requests
     - BeautifulSoup
