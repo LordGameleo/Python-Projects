@@ -17,6 +17,7 @@ Projects:
     - BeautifulSoup
     - Notify2
     - Win10toast
+
 **Get_IP_Location.py**: Can be used to get your public IP Address and Location of IP
   - In this project I used: (Requirement)
     - Requests
