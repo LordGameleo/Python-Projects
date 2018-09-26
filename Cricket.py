@@ -5,7 +5,6 @@ import platform
 
 #Function which will interact with the ESPN Cricket Server and Ubuntu
 def get_data_ubuntu(url):
-
     try:
 
         #Getting response from the ESPN Server
@@ -50,13 +49,12 @@ championship-division-one-2018)"
 
             report_old = report_new
         else:
-            print("."),
+            pass
         time.sleep(5)
 
 
 #Function which will interact with the ESPN Cricket Server and Windows 10
 def get_data_win_10(url):
-
     try:
 
         #Getting response from the ESPN Server
@@ -97,7 +95,7 @@ championship-division-one-2018)"
                         duration=4)
             report_old = report_new
         else:
-            print("."),
+            pass
         time.sleep(5)
 
 
